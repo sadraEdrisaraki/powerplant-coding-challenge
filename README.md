@@ -11,7 +11,7 @@ Provide Execution rights
 chmod +x ./publish/EngieCodingChallenge.WebApi.exe
 ```
 
-run your .exe inside of publish folder
+run your .exe
 ```
 ./publish/EngieCodingChallenge.WebApi.exe
 ```
