@@ -10,3 +10,4 @@ C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChall
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\refint\EngieCodingChallenge.Infrastructure.dll
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.pdb
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\ref\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.sourcelink.json

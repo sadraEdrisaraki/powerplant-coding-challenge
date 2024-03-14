@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0EQkubj81mZH8RKXYvL46YwJHsBmjFaWmrykFXn6akp8o0OMPgTNQXw0i22FtIRDfQIa80GfwXxpi7vWNl+0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sadra\\Desktop\\powerplant\\codebase\\EngieCodingChallenge\\EngieCodingChallenge.Infrastructure\\EngieCodingChallenge.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sadra\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\sadra\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
+    "C:\\Users\\sadra\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

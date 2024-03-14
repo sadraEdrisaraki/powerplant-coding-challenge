@@ -1,3 +1,16 @@
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.Infrastructure.deps.json
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.Infrastructure.dll
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.Infrastructure.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Debug\net8.0\EngieCodingChallenge.Infrastructure.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Debug\net8.0\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Debug\net8.0\EngieCodingChallenge.Infrastructure.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.sourcelink.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\refint\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\EngieCodingChallenge.Infrastructure.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Debug\net8.0\ref\EngieCodingChallenge.Infrastructure.dll

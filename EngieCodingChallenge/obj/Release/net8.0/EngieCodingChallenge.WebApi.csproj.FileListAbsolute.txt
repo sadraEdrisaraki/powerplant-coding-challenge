@@ -41,3 +41,4 @@ C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChall
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\bin\Release\net8.0\app\appsettings.json
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\bin\Release\net8.0\app\EngieCodingChallenge.WebApi.deps.json
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\bin\Release\net8.0\app\EngieCodingChallenge.WebApi.runtimeconfig.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\EngieCodingChallenge.WebApi.sourcelink.json

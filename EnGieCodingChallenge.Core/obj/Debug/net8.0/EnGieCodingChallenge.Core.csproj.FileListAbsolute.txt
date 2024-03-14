@@ -1,3 +1,15 @@
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.deps.json
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.dll
 C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\bin\Debug\net8.0\EnGieCodingChallenge.Core.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\bin\Debug\net8.0\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\bin\Debug\net8.0\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.AssemblyInfoInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.AssemblyInfo.cs
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.csproj.CoreCompileInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.sourcelink.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\refint\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge.Core\obj\Debug\net8.0\ref\EnGieCodingChallenge.Core.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnGieCodingChallenge.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a150bc1577ce9413850eb1278229fa8e868ebdaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnGieCodingChallenge.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnGieCodingChallenge.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

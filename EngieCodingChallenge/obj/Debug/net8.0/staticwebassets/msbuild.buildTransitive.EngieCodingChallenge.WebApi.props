@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EngieCodingChallenge.WebApi.props" />
+</Project>

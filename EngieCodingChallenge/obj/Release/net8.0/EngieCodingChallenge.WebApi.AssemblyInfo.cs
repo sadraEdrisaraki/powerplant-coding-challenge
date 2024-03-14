@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EngieCodingChallenge.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a150bc1577ce9413850eb1278229fa8e868ebdaa")]
 [assembly: System.Reflection.AssemblyProductAttribute("EngieCodingChallenge.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EngieCodingChallenge.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

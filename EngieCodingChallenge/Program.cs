@@ -7,15 +7,17 @@ public class Program
 
     public async static Task Main(string[] args)
     {
+        
         try
         {
+
             FileLogger.CreateLogger();
 
             Log.Information("Starting up");
             var builder = WebApplication.CreateBuilder(args);
-
+           
+            builder.WebHost.UseUrls("http://localhost:8888");
             
-
             // Add services to the container.
             builder.Services.AddControllers();
             builder.Services.AddTransient<IUnitCommitCalculation, UnitCommitCalculation>();
