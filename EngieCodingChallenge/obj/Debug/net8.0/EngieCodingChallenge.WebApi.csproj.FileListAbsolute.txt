@@ -1,0 +1,15 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\appsettings.Development.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\appsettings.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.WebApi.exe
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.WebApi.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.WebApi.runtimeconfig.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.WebApi.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.WebApi.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Asp.Versioning.Abstractions.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Asp.Versioning.Http.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Asp.Versioning.Mvc.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Serilog.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Serilog.Sinks.Console.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\Serilog.Sinks.File.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EngieCodingChallenge.Infrastructure.pdb

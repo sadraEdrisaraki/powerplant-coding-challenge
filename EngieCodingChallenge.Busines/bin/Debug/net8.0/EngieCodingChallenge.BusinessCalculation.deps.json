@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EngieCodingChallenge.BusinessCalculation/1.0.0": {
+        "dependencies": {
+          "EnGieCodingChallenge.Core": "1.0.0"
+        },
+        "runtime": {
+          "EngieCodingChallenge.BusinessCalculation.dll": {}
+        }
+      },
+      "EnGieCodingChallenge.Core/1.0.0": {
+        "runtime": {
+          "EnGieCodingChallenge.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EngieCodingChallenge.BusinessCalculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnGieCodingChallenge.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

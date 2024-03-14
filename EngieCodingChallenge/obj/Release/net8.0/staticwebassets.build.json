@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zWXChfnKpmmkVLv36fjY2rYVwuCjKgpm0q6XvhmmY+s=",
+  "Source": "EngieCodingChallenge.WebApi",
+  "BasePath": "_content/EngieCodingChallenge.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

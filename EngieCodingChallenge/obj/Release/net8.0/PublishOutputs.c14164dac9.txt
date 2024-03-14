@@ -1,0 +1,17 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.WebApi.exe
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.WebApi.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.WebApi.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.WebApi.runtimeconfig.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.WebApi.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Asp.Versioning.Abstractions.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Asp.Versioning.Http.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Asp.Versioning.Mvc.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Serilog.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Serilog.Sinks.Console.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\Serilog.Sinks.File.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\obj\Release\net8.0\PubTmp\Out\EngieCodingChallenge.Infrastructure.pdb

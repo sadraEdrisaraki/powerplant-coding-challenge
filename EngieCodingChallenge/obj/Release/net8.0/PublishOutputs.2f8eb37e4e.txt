@@ -1,0 +1,17 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.WebApi.exe
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\appsettings.Development.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\appsettings.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.WebApi.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.WebApi.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.WebApi.runtimeconfig.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.WebApi.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Asp.Versioning.Abstractions.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Asp.Versioning.Http.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Asp.Versioning.Mvc.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Serilog.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Serilog.Sinks.Console.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\Serilog.Sinks.File.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EnGieCodingChallenge\app\EngieCodingChallenge.Infrastructure.pdb

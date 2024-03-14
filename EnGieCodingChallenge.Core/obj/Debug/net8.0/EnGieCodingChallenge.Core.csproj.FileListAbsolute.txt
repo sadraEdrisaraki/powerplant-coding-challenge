@@ -1,0 +1,3 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge\app\build\EnGieCodingChallenge.Core.pdb

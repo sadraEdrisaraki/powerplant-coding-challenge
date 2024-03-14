@@ -1,0 +1,12 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Release\net8.0\EngieCodingChallenge.Infrastructure.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Release\net8.0\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\bin\Release\net8.0\EngieCodingChallenge.Infrastructure.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\refint\EngieCodingChallenge.Infrastructure.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\EngieCodingChallenge.Infrastructure.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Infrastructure\obj\Release\net8.0\ref\EngieCodingChallenge.Infrastructure.dll

@@ -1,0 +1,6 @@
+@EngieCodingChallenge_HostAddress = http://localhost:5110
+
+GET {{EngieCodingChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

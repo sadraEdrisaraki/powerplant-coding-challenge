@@ -1,0 +1,15 @@
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\bin\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.deps.json
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\bin\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\bin\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\bin\Debug\net8.0\EnGieCodingChallenge.Core.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\bin\Debug\net8.0\EnGieCodingChallenge.Core.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.csproj.AssemblyReference.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.AssemblyInfoInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.AssemblyInfo.cs
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.csproj.CoreCompileInputs.cache
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.csproj.CopyComplete
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\refint\EngieCodingChallenge.BusinessCalculation.dll
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\EngieCodingChallenge.BusinessCalculation.pdb
+C:\Users\sadra\Desktop\powerplant\codebase\EngieCodingChallenge\EngieCodingChallenge.Busines\obj\Debug\net8.0\ref\EngieCodingChallenge.BusinessCalculation.dll
